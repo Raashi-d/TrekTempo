@@ -1,5 +1,6 @@
 # TrekTempo (Mobile Application)
-![TrakTempo](https://github.com/user-attachments/assets/342392f0-33ec-46e6-99fb-1b7f44af38e7)
+![Untitled-1 copy](https://github.com/user-attachments/assets/843388cb-1ae1-4d06-8c5c-f71612f241f8)
+
 
 ## About TrekTempo
 
